@@ -79,3 +79,6 @@ if __name__ == "__main__":
 ```
 ## OUTPUT:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/199da56b-5b61-4d7a-b7d3-c784a7bf98d7" />
+### RESULT:
+Hence,the python program to design and implement a Python function for converting miles to km,
+integrating it with a chat completion system utilizing the function-calling feature of a large language model (LLM) is written successfully and executed.
