@@ -1,7 +1,7 @@
 ## Integration of a Mathematical Calulations with a Chat Completion System using LLM Function-Calling
 
 ### AIM:
-To design and implement a Python function for coverting miles to kilometer, integrate it with a chat completion system utilizing the function-calling feature of a large language model (LLM).
+To write a Python program that integrates with Google’s Gemini API setup, integrate it with a chat completion system utilizing the function-calling feature of a large language model (LLM).
 
 ### PROBLEM STATEMENT:
 You need to create a Python program that can intelligently convert miles to kilometers by leveraging OpenAI's function calling capability.
@@ -81,5 +81,4 @@ if __name__ == "__main__":
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/199da56b-5b61-4d7a-b7d3-c784a7bf98d7" />
 
 ## RESULT:
-Hence,the python program to design and implement a Python function for converting miles to km,
-integrating it with a chat completion system utilizing the function-calling feature of a large language model (LLM) is written successfully and executed.
+Hence, the Python program to design and implement a Python function for calculating the area of a circle, and integrating it with a chat completion system utilizing the function-calling feature of a large language model (LLM), is written successfully and executed.
